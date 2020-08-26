@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cad313c07b219f0b77d89fd5ace28bc1",
+    "revision": "8fc0109de7988dabe053a52248e5b888",
     "url": "/weby_labb/index.html"
   },
   {
-    "revision": "0c901603b6920d76bd6b",
+    "revision": "761bac2aa97466807922",
     "url": "/weby_labb/static/css/main.f4d66f6b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weby_labb/static/js/2.e3a0d8d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c901603b6920d76bd6b",
-    "url": "/weby_labb/static/js/main.fbec888a.chunk.js"
+    "revision": "761bac2aa97466807922",
+    "url": "/weby_labb/static/js/main.9157c338.chunk.js"
   },
   {
     "revision": "b32d18cc7e260e19d2d0",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/weby_labb/static/css/main.f4d66f6b.chunk.css",
-    "main.js": "/weby_labb/static/js/main.fbec888a.chunk.js",
-    "main.js.map": "/weby_labb/static/js/main.fbec888a.chunk.js.map",
+    "main.js": "/weby_labb/static/js/main.9157c338.chunk.js",
+    "main.js.map": "/weby_labb/static/js/main.9157c338.chunk.js.map",
     "runtime-main.js": "/weby_labb/static/js/runtime-main.20c9f394.js",
     "runtime-main.js.map": "/weby_labb/static/js/runtime-main.20c9f394.js.map",
     "static/js/2.e3a0d8d4.chunk.js": "/weby_labb/static/js/2.e3a0d8d4.chunk.js",
     "static/js/2.e3a0d8d4.chunk.js.map": "/weby_labb/static/js/2.e3a0d8d4.chunk.js.map",
     "index.html": "/weby_labb/index.html",
-    "precache-manifest.901ca320059cb146a29d2ab3562c853f.js": "/weby_labb/precache-manifest.901ca320059cb146a29d2ab3562c853f.js",
+    "precache-manifest.0d34ad9de2271f997954775aa02d6817.js": "/weby_labb/precache-manifest.0d34ad9de2271f997954775aa02d6817.js",
     "service-worker.js": "/weby_labb/service-worker.js",
     "static/css/main.f4d66f6b.chunk.css.map": "/weby_labb/static/css/main.f4d66f6b.chunk.css.map",
     "static/js/2.e3a0d8d4.chunk.js.LICENSE.txt": "/weby_labb/static/js/2.e3a0d8d4.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.20c9f394.js",
     "static/js/2.e3a0d8d4.chunk.js",
     "static/css/main.f4d66f6b.chunk.css",
-    "static/js/main.fbec888a.chunk.js"
+    "static/js/main.9157c338.chunk.js"
   ]
 }
